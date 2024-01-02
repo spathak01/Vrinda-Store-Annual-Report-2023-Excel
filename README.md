@@ -24,4 +24,4 @@ Explore the interactive dashboard and detailed insights in this repository to gu
 
 ![Vrinda Store Annual Report Dashboard](https://github.com/spathak01/Vrinda-Store-Annual-Report-2024-Excel/assets/125938774/a4f2e57f-3716-4278-9e56-570b7652aa8c)
 
-🔗 **GitHub Repository:** [Vrinda-Store-Annual-Report-2024-Excel](your-github-link)
+🔗 **GitHub Repository:** [Vrinda-Store-Annual-Report-2024-Excel](https://github.com/spathak01/Vrinda-Store-Annual-Report-2024-Excel)
